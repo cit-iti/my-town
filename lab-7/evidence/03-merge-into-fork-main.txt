@@ -1,0 +1,4 @@
+Target branch: main
+Source branch: my-city
+Merge result: my-city was merged successfully into main.
+Final History view: merge verified in GitHub Desktop History.

@@ -1,0 +1,6 @@
+PR URL: https://github.com/cit-iti/my-town/pull/32
+Title: Add Five Flint City Facts
+Base repository/branch: cit-iti/my-town:main
+Compare repository/branch: aharalam/my-town:main
+Changed files: flint.txt and Lab 7 evidence/screenshots
+Review summary: This pull request adds flint.txt with five facts about Flint, Michigan. The work was completed on my-city, merged into my fork's main branch, and should be reviewed for accuracy, clarity, and the included source.

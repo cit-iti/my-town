@@ -1,0 +1,3 @@
+Branch name: my-city
+Commit summary: Add flint.txt with five Flint city facts.
+Work completed on branch: my-city
