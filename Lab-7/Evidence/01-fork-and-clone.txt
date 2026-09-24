@@ -1,0 +1,4 @@
+Original repository: https://github.com/cit-iti/my-town
+My public fork: https://github.com/Drepython96/my-town
+I forked the original repository into my GitHub account and cloned my fork to my computer using GitHub Desktop.
+Local clone: C:\Users\Owner\my-town

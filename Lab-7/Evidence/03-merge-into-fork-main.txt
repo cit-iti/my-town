@@ -1,0 +1,7 @@
+I merged the my-city branch into the main branch of my fork using GitHub Desktop.
+
+The merge brought both Flint commits into my fork's main branch:
+- Add Flint city facts
+- Expand Michigan Flint facts
+
+I pushed main to https://github.com/Drepython96/my-town.

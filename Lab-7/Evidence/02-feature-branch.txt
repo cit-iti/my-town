@@ -1,0 +1,9 @@
+Feature branch: my-city
+
+Commit 1: Add Flint city facts
+Added flint.txt with facts about Flint, Michigan, and source links.
+
+Commit 2: Expand Michigan Flint facts
+Expanded michigan/flint.txt with facts about Flint's history and a source link.
+
+I published the my-city branch to my GitHub fork.
