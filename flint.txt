@@ -1,0 +1,6 @@
+- Flint, MI is the most populous city in Genesee county.
+- It is located along the Flint River.
+- Flint faced a public health emergency from 2014 to 2019 due to
+  lead contaminating the water supply.
+
+Source: https://en.wikipedia.org/wiki/Flint,_Michigan
