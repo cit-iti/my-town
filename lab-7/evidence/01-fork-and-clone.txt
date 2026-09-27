@@ -1,0 +1,4 @@
+Parent repository: https://github.com/cit-iti/my-town
+Fork repository: https://github.com/ZoraS123/my-town
+Local clone: /Users/zorasmith/Desktop/my-town
+GUI tool: GitHub Desktop

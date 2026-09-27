@@ -1,0 +1,7 @@
+Branch name: my-city
+
+Commit 1: Add Seattle city facts
+Commit 2: Update flint.txt
+
+The Seattle and Flint city-file work was completed on the my-city branch.
+The my-city branch was published to my GitHub fork before merging into main.

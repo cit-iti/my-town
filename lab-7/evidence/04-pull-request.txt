@@ -1,0 +1,12 @@
+Pull request URL: [https://github.com/cit-iti/my-town/pull/53]
+Pull request title: Add Seattle and Flint city facts
+
+Base repository/branch: cit-iti/my-town : main
+Compare repository/branch: ZoraS123/my-town : main
+
+Changed city files:
+- washington/seattle.txt
+- michigan/flint.txt
+
+Review summary:
+This pull request adds facts about Seattle, Washington and expands the existing Flint, Michigan information. The city changes were created on the my-city feature branch, merged into my fork's main branch, and then submitted from my fork's main branch to the parent repository's main branch for review.
